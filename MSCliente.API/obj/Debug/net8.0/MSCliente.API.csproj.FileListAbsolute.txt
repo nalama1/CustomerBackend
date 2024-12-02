@@ -156,3 +156,4 @@ C:\Users\DETPC\source\repos\PruebaBancoPacifico\MSCliente.API\MSCliente.API\obj\
 C:\Users\DETPC\source\repos\PruebaBancoPacifico\MSCliente.API\MSCliente.API\obj\Debug\net8.0\MSCliente.API.pdb
 C:\Users\DETPC\source\repos\PruebaBancoPacifico\MSCliente.API\MSCliente.API\obj\Debug\net8.0\MSCliente.API.genruntimeconfig.cache
 C:\Users\DETPC\source\repos\PruebaBancoPacifico\MSCliente.API\MSCliente.API\obj\Debug\net8.0\ref\MSCliente.API.dll
+C:\Users\DETPC\source\repos\PruebaBancoPacifico\MSCliente.API\MSCliente.API\obj\Debug\net8.0\MSCliente.API.sourcelink.json
